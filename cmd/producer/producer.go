@@ -7,7 +7,6 @@ import (
 	"log"
 	"net/http"
 	"strconv"
-
 	"github.com/nutcas3/Kafka-Golang/pkg/models"
 
 	"github.com/IBM/sarama"
